@@ -18,8 +18,8 @@ namespace VsPad
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program output here.");
-            Console.Read();
+            // Use Dump() methods to see output!
+            // Ctrl-F5 to test!
         }
     }
 }
