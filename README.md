@@ -1,4 +1,4 @@
-# vspad
+# VsPad
 VsPad aims to bring some of the simple functionality of LINQPad to visual studio.
 
 LINQPad is a .NET language playground that quickly and easily allows you to type in or paste code for testing and refining without having to go through the trouble of creating a Visual Studio project.  I highly recommend it and it can save you a lot of time.  It is an excellent piece of software.
